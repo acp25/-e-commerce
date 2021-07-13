@@ -8,6 +8,11 @@ Clone the repositry from GitHub and use your preferred code editor. Remember to 
 # Usage 
 [Video Demo Link:](https://youtu.be/aOroRUw4r8E)
 
+![ecom1](https://user-images.githubusercontent.com/60405505/125378588-06c57680-e35d-11eb-9496-5c95810a688d.GIF)
+
+![ecom2](https://user-images.githubusercontent.com/60405505/125378597-0d53ee00-e35d-11eb-9d25-651b526ce35c.GIF)
+
+
 
 
 # Credits
