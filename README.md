@@ -3,7 +3,7 @@ Back end for an e-commerce site using  MySQL2 and Sequelize.
 
 # Installation
 
-Clone the repositry from GitHub and use your preferred code editor. Remember to create a database as well with MySQL. 
+Clone the repositry from GitHub and use your preferred code editor. Remember to create a database with MySQL. 
 
 # Usage 
 [Video Demo Link:](https://youtu.be/aOroRUw4r8E)
