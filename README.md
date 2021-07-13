@@ -1,9 +1,9 @@
 # e-commerence
-Back end for an e-commerce site using express.js, MySQL2 and Sequelize.
+Back end for an e-commerce site using  MySQL2 and Sequelize.
 
 # Installation
 
-Clone the repositry from GitHub and open using Visual Studio Code.
+Clone the repositry from GitHub and use your preferred code editor.
 
 # Usage 
 [Video Demo Link:](https://youtu.be/aOroRUw4r8E)
